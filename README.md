@@ -29,5 +29,5 @@ P.S. If you faced issues on the first step, check the global `node_modules` dire
 2. To generate test-report, run the following command:
 
 ```bash
-  generate:TestReport
+  npm run generate:TestReport
 ```

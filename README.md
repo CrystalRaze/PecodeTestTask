@@ -29,5 +29,14 @@ P.S. If you faced issues on the first step, check the global `node_modules` dire
 2. To generate test-report, run the following command:
 
 ```bash
-  npm run generate:TestReport
+  generate:TestReport
 ```
+
+### Conclusion
+`WebDriver.io v7.23.0` is compatible with the following packages:
+
+| Package                             | Version  | Description                                  |
+| :---------------------------------- | :------- | :--------------------------------------------|
+| `wdio-mochawesome-reporter`         | `^4.0.0` | **WDIO** can use only modified `mochawesome` |
+| `mochawesome-report-generator`      | `^3.1.5` | **WDIO** doesn't support higher version      |
+

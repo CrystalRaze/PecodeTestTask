@@ -39,4 +39,5 @@ P.S. If you faced issues on the first step, check the global `node_modules` dire
 | :---------------------------------- | :------- | :--------------------------------------------|
 | `wdio-mochawesome-reporter`         | `^4.0.0` | **WDIO** can use only modified `mochawesome` |
 | `mochawesome-report-generator`      | `^3.1.5` | **WDIO** doesn't support higher version      |
+| `wdio-video-reporter`               | `^3.2.3` | Not enough options for screens managment     |
 

@@ -139,5 +139,4 @@ describe("Login with valid credentials", () => {
     it("User is redirected to the 'Dashboard' page", async () => {
         await expect(loginPage.fakeDashboardSelector).toBeDisplayed();
     });
-
 });
